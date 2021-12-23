@@ -2,5 +2,6 @@
 # my-code 
 # welcome to 'my-code' owned by niteesh-bhat 
 # my all codes are here 
-# NOTE:i am not developer, i am a computer science student in an engineering college.
-# if any mistake pardon me 
+# I am a computer science student in a college.
+# i am very interested to learn and code.
+# if any mistake plzz feel to free correct that.
