@@ -1,0 +1,1 @@
+1234567890abcdefghijXXXXXXXXXX facilities provided in a computer must give the programmer complete control over the events 

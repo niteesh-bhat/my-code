@@ -1,0 +1,133 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Banks",
+            "request": "launch",
+            "mainClass": "Banks",
+            "projectName": "CS350L_JavaLab_1bc818be"
+        },
+        {
+            "type": "java",
+            "name": "Launch Results",
+            "request": "launch",
+            "mainClass": "Results",
+            "projectName": "CS350L_JavaLab_1bc818be"
+        },
+        {
+            "type": "java",
+            "name": "Launch StackOps",
+            "request": "launch",
+            "mainClass": "StackOps",
+            "projectName": "CS350L_JavaLab_1bc818be"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch BankAccount",
+            "request": "launch",
+            "mainClass": "BankAccount",
+            "projectName": "CS350L_JavaLab-main_561fffea"
+        },
+        {
+            "type": "java",
+            "name": "Launch Books",
+            "request": "launch",
+            "mainClass": "Books",
+            "projectName": "CS350L_JavaLab-main_561fffea"
+        },
+        {
+            "type": "java",
+            "name": "Launch ComplexNumbers",
+            "request": "launch",
+            "mainClass": "ComplexNumbers",
+            "projectName": "CS350L_JavaLab-main_561fffea"
+        },
+        {
+            "type": "java",
+            "name": "Launch CubeVolumeArea",
+            "request": "launch",
+            "mainClass": "CubeVolumeArea",
+            "projectName": "CS350L_JavaLab-main_561fffea"
+        },
+        {
+            "type": "java",
+            "name": "Launch Election",
+            "request": "launch",
+            "mainClass": "Election",
+            "projectName": "CS350L_JavaLab-main_561fffea"
+        },
+        {
+            "type": "java",
+            "name": "Launch EmployeeRecord",
+            "request": "launch",
+            "mainClass": "EmployeeRecord",
+            "projectName": "CS350L_JavaLab-main_561fffea"
+        },
+        {
+            "type": "java",
+            "name": "Launch Fibonacci",
+            "request": "launch",
+            "mainClass": "Fibonacci",
+            "projectName": "CS350L_JavaLab-main_561fffea"
+        },
+        {
+            "type": "java",
+            "name": "Launch GeometricShapes",
+            "request": "launch",
+            "mainClass": "GeometricShapes",
+            "projectName": "CS350L_JavaLab-main_561fffea"
+        },
+        {
+            "type": "java",
+            "name": "Launch MergeArray",
+            "request": "launch",
+            "mainClass": "MergeArray",
+            "projectName": "CS350L_JavaLab-main_561fffea"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrimeRange",
+            "request": "launch",
+            "mainClass": "PrimeRange",
+            "projectName": "CS350L_JavaLab-main_561fffea"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pyramid",
+            "request": "launch",
+            "mainClass": "Pyramid",
+            "projectName": "CS350L_JavaLab-main_561fffea"
+        },
+        {
+            "type": "java",
+            "name": "Launch QuadraticRoots",
+            "request": "launch",
+            "mainClass": "QuadraticRoots",
+            "projectName": "CS350L_JavaLab-main_561fffea"
+        },
+        {
+            "type": "java",
+            "name": "Launch StudentMarks",
+            "request": "launch",
+            "mainClass": "StudentMarks",
+            "projectName": "CS350L_JavaLab-main_561fffea"
+        },
+        {
+            "type": "java",
+            "name": "Launch TempratureRecord",
+            "request": "launch",
+            "mainClass": "TempratureRecord",
+            "projectName": "CS350L_JavaLab-main_561fffea"
+        }
+    ]
+}
