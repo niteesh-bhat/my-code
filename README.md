@@ -1,5 +1,5 @@
 ![](logo.png)
-# my-code 
+# Hii there👋 
 # welcome to 'my-code' owned by niteesh-bhat 
 # my all codes are here 
 # I am a computer science student in a college.
